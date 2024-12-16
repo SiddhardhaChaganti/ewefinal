@@ -1,0 +1,109 @@
+/* styles.css */
+
+/* Reset some default margin and padding for elements */
+body, h1, p, form, label, input, button {
+    margin: 10px;
+    padding: 0;
+    font-size: 30px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e2b984;
+    text-align: center;
+    margin: 100px;
+    padding: 5px;
+    font-size: 18px;
+    background-image: url('FP2.jpg'); /* Replace 'your-image-url.jpg' with the URL of your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: #d98e26;
+    color: #7d2918;
+    padding: 20px 0;
+    font-size: 24px;
+}
+
+form {
+    margin: 100px;
+}
+
+label {
+    display: inline-block;
+    margin: 10px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #8eddbc;
+    color: #e49a46;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 500px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button a {
+    text-decoration: none;
+    color: #e79121;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+
+
+body {
+    font-family: monospace, 'Courier New', Courier, monospace;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 18px;
+}
+
+.page1 {
+    background-image: url('page1.jpg');
+}
+
+.page2 {
+    background-image: url('page2.jpg');
+}
+
+.page3 {
+    background-image: url('page3.jpg');
+}
+
+.page4 {
+    background-image: url('page4.jpg');
+}
+
+.page5 {
+    background-image: url('page5.jpg');
+}
+
+.page6 {
+    background-image: url('page6.jpg');
+}
+
+.page7 {
+    background-image: url('page7.jpg');
+}
+
+.page8 {
+    background-image: url('page8.jpg');
+}
